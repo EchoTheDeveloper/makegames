@@ -1,5 +1,5 @@
 # welcome
-## This is not an all-in-one guide, and is more of an extension on [Pirate Software's Guide](https://github.com/EchoTheDeveloper/adobe_alternatives/blob/main/README.md). This is all from my exerience and also extensive research.
+## This is not an all-in-one guide, and is more of an extension on [Pirate Software's Guide](https://develop.games). This is all from my exerience and also extensive research. You can also find free alternatives to popular paid software [here](https://github.com/EchoTheDeveloper/adobe_alternatives/blob/main/README.md).
 
 # Who am I?
 I am EchoTheDeveloper, I have been programming and developing games since 2019. As of writing this I have no published games but I am currently working on a Game Engine and the Goblin Mod Maker. I have spent hours making games for me and my friends to play on countless different engines and frameworks. In this guide I will try to be as unbiased as possible. However, just to clear the water, I will give my personal opinion on each framework/engine when I talk about it. This is for transparency and it will not influence what I have to say about it.
